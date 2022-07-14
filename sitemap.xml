@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://127.0.0.1/categories/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/docs/community/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/docs/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/docs/solutions/gitlab/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/docs/system/hugo/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/docs/system/hugo1/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/docs/solutions/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/docs/system/</loc>
+  </url><url>
+    <loc>http://127.0.0.1/tags/</loc>
+  </url>
+</urlset>
