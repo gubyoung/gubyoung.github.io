@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://gubyoung.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost/</loc>
+    <loc>https://gubyoung.github.io/</loc>
   </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://gubyoung.github.io/tags/</loc>
   </url>
 </urlset>
